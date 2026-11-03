@@ -1,0 +1,7 @@
+build-essential
+xorg
+xfce4
+lightdm
+nvidia-driver
+firefox
+libreoffice
